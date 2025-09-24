@@ -11,8 +11,8 @@ The seminar discusses the current experimental developments, challenges and futu
 
 ## Main Reference Paper
 For this seminar different reference papers were used, but the main focus of the presentation is the content from the paper with the same name as the title of the seminar. You can find it in this repository as a PDF or you can follow the link to the source:
-- [Paper (PDF in repo](paper.pdf)
-- [Paper (online source](https://arxiv.org/abs/2412.06338#)
+- [Paper (PDF in repo)](paper.pdf)
+- [Paper (online source)](https://arxiv.org/abs/2412.06338#)
 
 ## License
 This work is licensed under **CC BY 4.0**. See the [`LICENSE`](LICENSE) file for full details.
