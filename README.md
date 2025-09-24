@@ -3,8 +3,8 @@ The student seminar presentation on Beyond Standard Model course taken during th
 The seminar was presented on June 25, 2025.
 
 ## Content
-- [Presentation slides]:(BSM_seminar_slides.pdf)
-- [Written script with the content of my part of the presentation]:(seminar_BSM_script_.pdf) 
+- [Presentation slides](BSM_seminar_slides.pdf)
+- [Written script with the content of my part of the presentation](seminar_BSM_script_.pdf) 
 
 ## Abstract
 The seminar discusses the current experimental developments, challenges and future prospects in quantum technologies for determining absolute neutrino masses.
