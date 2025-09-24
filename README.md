@@ -10,7 +10,7 @@ The seminar was presented on June 25, 2025.
 The seminar discusses the current experimental developments, challenges and future prospects in quantum technologies for determining absolute neutrino masses.
 
 ## Main Reference Paper
-For this seminar a lot of reference paper were used, but the main focus of the presentation is the content from the paper with the same name as the title of the seminar. You can find it in this repository as a PDF or you can follow the link to the source:
+For this seminar different reference papers were used, but the main focus of the presentation is the content from the paper with the same name as the title of the seminar. You can find it in this repository as a PDF or you can follow the link to the source:
 - [Paper (PDF in repo](paper.pdf)
 - [Paper (online source](https://arxiv.org/abs/2412.06338#)
 
